@@ -1,0 +1,2 @@
+Upload files from a folder 'diamant' to web server or local server to test.
+Important! Contact form  works only on a local server or host.
